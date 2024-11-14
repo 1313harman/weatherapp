@@ -1,5 +1,5 @@
 ///Practicing complex UI 
-//Doesn't have any link with weather app, this component only foor practice
+//Doesn't have any link with weather app, this component only for practice
 import React, { useState } from 'react';
 
 function Array_2D() {
